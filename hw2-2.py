@@ -11,3 +11,13 @@
 
 # print("The player scored", score, "points in the game.")
 
+ft = 10
+
+twopts = 20
+
+threepts = 10
+
+
+score = ft + 2 * (twopts) + 3 * (threepts)
+
+print("The player scored", score, "points in the game.")
